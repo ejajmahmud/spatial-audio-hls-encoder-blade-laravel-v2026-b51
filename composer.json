@@ -1,0 +1,8 @@
+{
+  "name": "enterprise/spatial-audio-hls-encoder-blade-laravel-v2026-b51",
+  "description": "Spatial Audio Streaming & HLS Encoder - PHP 8.3 / Laravel 11 & Blade UI",
+  "type": "project",
+  "require": {
+    "php": "^8.2"
+  }
+}
